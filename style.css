@@ -23,3 +23,24 @@ font-family: fantasy;}
    .dream-big{background-image: url(images/dream-bg.png);
    background-repeat: no-repeat;
 background-position: right;}
+.flexible-container{display: flex;} 
+.experience-item{width: 40%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 2  0px;
+   border-radius: 20px;
+border-left: indianred;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+.experience-area{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;}
+#web-dev-experience{
+   background-image: linear-gradient(lime blue);
+   border-image-slice: 4;
+   border-left: solid;
+}
+#full-stack-experience{
+   border-left: solid;
+   border-image: linear-gradient(salmon tomato);
+border-image-slice: 1;}
+footer{text-align: center;}
