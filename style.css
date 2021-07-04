@@ -4,13 +4,14 @@ body{
 h2{font-size: 50px;}
 .orange{color: brown;}
 .black{color:cornflowerblue}
-section{display:flex;}
+section{display:flex;
+margin-top: 200px;}
 .half-width{
    width: 70%;}
 .half-width img{width: 60%;}
 .linked{text-decoration: none;
-background-color: cadetblue;
-color: thistle;
+background-color: orangered;
+color: rgb(255, 244, 255);
 padding: 10px 40px;
 border-radius: 5px;
 background-image: linear-gradient(orange tomato);
@@ -19,4 +20,6 @@ font-family: fantasy;}
    background-image: url(images/top-banner.png);
    background-repeat: no-repeat;
    margin:0px;}
-   
+   .dream-big{background-image: url(images/dream-bg.png);
+   background-repeat: no-repeat;
+background-position: right;}
