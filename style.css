@@ -2,3 +2,21 @@ body{
    font-family: 'Permanent Marker', cursive;
 }
 h2{font-size: 50px;}
+.orange{color: brown;}
+.black{color:cornflowerblue}
+section{display:flex;}
+.half-width{
+   width: 70%;}
+.half-width img{width: 60%;}
+.linked{text-decoration: none;
+background-color: cadetblue;
+color: thistle;
+padding: 10px 40px;
+border-radius: 5px;
+background-image: linear-gradient(orange tomato);
+font-family: fantasy;}
+.top-banner{
+   background-image: url(images/top-banner.png);
+   background-repeat: no-repeat;
+   margin:0px;}
+   
